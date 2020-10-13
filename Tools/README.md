@@ -11,6 +11,9 @@ LENOVO-M1UKT57A.rom                         M720Q Bios
 Universal BIOS Backup ToolKit 2.0   1.0     Windows提取BIOS
 
 
+
+
+
 解锁CFG Lock(适用于Bios中没有CFG Lock选项的主板) ：
 
   ***本教程是修改主板固件信息，操作失误会导致Bios崩溃，如果出现崩溃，本人不承担任何责任，请谨慎操作***
