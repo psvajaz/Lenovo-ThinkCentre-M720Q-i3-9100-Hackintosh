@@ -1,8 +1,13 @@
 配置需要使用的工具
+
 Hackintool                          3.4.4
+
 UEFITool                            A57     导出Bios数据
+
 ifrextractor                        1.0.2   Bios解包工具
+
 LENOVO-M1UKT57A.rom                         M720Q Bios
+
 Universal BIOS Backup ToolKit 2.0   1.0     Windows提取BIOS
 
 
