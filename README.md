@@ -5,9 +5,9 @@
  
 
   以下步骤可开启/关闭OpenCore菜单：  
-    修改/EFI/OC/config.plist文件中的设置项  
-      ShowPicker  :  true/false     开启/关闭OpenCore  
-      TimeOut  :  0/1/2/3/4/5...    设定菜单停留时间：0/1/2/3/4/5秒  
+		修改/EFI/OC/config.plist文件中的设置项  
+		ShowPicker  :  true/false     开启/关闭OpenCore  
+		TimeOut  :  0/1/2/3/4/5...    设定菜单停留时间：0/1/2/3/4/5秒  
  
   以下操作为系统SIP相关  
     修改/EFI/OC/config.plist文件中的设置项  
