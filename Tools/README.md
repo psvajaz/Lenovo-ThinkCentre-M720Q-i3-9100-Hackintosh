@@ -37,6 +37,6 @@ Universal BIOS Backup ToolKit 2.0   1.0     Windows提取BIOS
   8、将/EFI/OC/config.plist文件删除或重命名为其他名称，将"/EFI/OC/config(解锁CFG生产环境).plist"文件改名为"/EFI/OC/config.plist"重新进入系统即可
   
   
-注：本解锁教程应用自司波图的视频教程(https://www.bilibili.com/video/BV1mT4y137T1)15:58~17:25
+注：本解锁教程应用自司波图的视频教程 (https://www.bilibili.com/video/BV1mT4y137T1) 15:58~17:25
   
   
