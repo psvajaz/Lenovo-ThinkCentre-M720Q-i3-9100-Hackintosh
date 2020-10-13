@@ -18,4 +18,4 @@
       查看SIP状态: csrutil status  
  
   开启HiDPI   bash -c "$(curl -fsSL https://raw.githubusercontent.com/xzhih/one-key-hidpi/master/hidpi.sh)"  
-    具体教程请查看https://github.com/xzhih/one-key-hidpi/blob/master/README-zh.md  
+    具体教程请查看[查看教程](https://github.com/xzhih/one-key-hidpi/blob/master/README-zh.md "查看教程")
