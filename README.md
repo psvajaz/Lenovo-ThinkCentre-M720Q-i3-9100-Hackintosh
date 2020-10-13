@@ -1,8 +1,8 @@
 # Lenovo-ThinkCentre-M720Q-i3-9100-Hackintosh
 
-  本EFI包([OpenCore 0.6.2](https://github.com/acidanthera/OpenCorePkg))配置为Lenovo ThinkCentre M720Q配i3-9100，无其他额外驱动。可正常使用  
+  本EFI包([OpenCore 0.6.2](https://github.com/acidanthera/OpenCorePkg))配置为Lenovo ThinkCentre M720Q配i3-9100，无线网卡为(BCM943602CS)，无其他额外驱动。可正常使用  
   关于解锁CFG Lock请到Tools目录下[查看教程](https://github.com/psvajaz/Lenovo-ThinkCentre-M720Q-i3-9100-Hackintosh/blob/main/Tools/README.md)  
- 
+  ***注：使用 司波图 视频教程中提供的工具包进行制作，并将OpenCore升级为(0.6.2)***
 
   以下步骤可开启/关闭OpenCore菜单：  
   ```
