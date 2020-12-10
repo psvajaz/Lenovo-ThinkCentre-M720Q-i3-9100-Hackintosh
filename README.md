@@ -23,4 +23,4 @@
     ```bash -c "$(curl -fsSL https://raw.githubusercontent.com/xzhih/one-key-hidpi/master/hidpi.sh)"```  
      具体教程请[查看教程](https://github.com/xzhih/one-key-hidpi/blob/master/README-zh.md "查看教程")
 
-注：已安装10.15.x的用户，直接替换0.6.4的EFI可以直接使用OTA升级到11.0.1。已经亲测，可正常启动及升级
+  ***注：已安装10.15.x的用户，直接替换0.6.4的EFI可以直接使用OTA升级到11.0.1。已经亲测，可正常启动及升级***
